@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Author: GT
+# Author: Nudrak
 # Object-Oriented Programming (OOP) Practice
 
 from modules.utils import pause_clear, loading_bar, logs
