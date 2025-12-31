@@ -1,0 +1,38 @@
+{
+    "T1": {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "genre": "Theater",
+        "pages": "319",
+        "price": "1,400",
+        "date": "1601",
+        "status": "Available"
+    },
+    "T2": {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "genre": "Poetry",
+        "pages": "988",
+        "price": "2,043",
+        "date": "1304",
+        "status": "Available"
+    },
+    "T3": {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "genre": "Novel",
+        "pages": "298",
+        "price": "1,044",
+        "date": "1851",
+        "status": "Available"
+    },
+    "T4": {
+        "title": "Nudrak",
+        "author": "Donovan-Nudrak",
+        "genre": "OOP",
+        "pages": 100,
+        "price": 1.45,
+        "date": "2025-12-24",
+        "status": "Available"
+    }
+}
